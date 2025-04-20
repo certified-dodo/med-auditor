@@ -1,3 +1,8 @@
+# Med Auditor
+
+A medical auditing application that helps healthcare providers manage and analyze patient records.
+
+Edited by trae IDE: 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
