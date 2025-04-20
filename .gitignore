@@ -44,3 +44,8 @@ backend/__pycache__
 chroma
 # vscode
 .vscode
+backend/chroma_db/chroma.sqlite3
+backend/chroma_db/fd66658d-ea3b-4c25-9d15-03d292e6392d/data_level0.bin
+backend/chroma_db/fd66658d-ea3b-4c25-9d15-03d292e6392d/length.bin
+backend/chroma_db/fd66658d-ea3b-4c25-9d15-03d292e6392d/header.bin
+backend/chroma_db/fd66658d-ea3b-4c25-9d15-03d292e6392d/link_lists.bin
