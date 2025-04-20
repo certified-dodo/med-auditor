@@ -1,0 +1,104 @@
+PATIENT_ID: MRN-78392 | DATE: 03/15/2024 | TIME: 09:30
+VITALS: BP 138/82 | HR 76 | RR 18 | TEMP 98.6F | O2 97%RA
+PRIMARY: Post-operative TKR wound care
+ASSESSMENT: R knee surgical wound healing well. No signs of infection. Wound edges well approximated. Minimal serous drainage. Pt ambulating with walker. Pain level 4/10. Performing PT exercises 3x/day.
+MEDICATIONS: Cefazolin 500mg PO q8h (last dose) | Oxycodone 5mg PRN q4-6h | ASA 81mg daily
+PLAN: Next visit 03/17/2024. Continue wound care and PT.
+
+PATIENT_ID: MRN-65441 | DATE: 03/15/2024 | TIME: 11:15
+VITALS: BP 142/88 | HR 82 | RR 20 | TEMP 99.1F | O2 94%RA
+PRIMARY: CHF management
+ASSESSMENT: SOB with activity. +2 bilateral LE edema. Weight gain 4lbs in 3 days. Bibasilar crackles. Missed 2 doses of Lasix due to frequent urination.
+MEDICATIONS: Lasix 40mg daily | Metoprolol 25mg BID | Lisinopril 10mg daily | KCl 20mEq daily
+PLAN: Called PCP for Lasix adjustment. Reinforced medication adherence, daily weights, low sodium diet.
+
+PATIENT_ID: MRN-91283 | DATE: 03/15/2024 | TIME: 14:00
+VITALS: BP 165/95 | HR 88 | RR 18 | TEMP 98.8F | O2 96%RA
+PRIMARY: Diabetic care management
+ASSESSMENT: BG fasting 210, pre-lunch 188. Visual problems reading glucometer. R foot ulcer, Wagner Grade 1. Wound cleaned and dressed. Wearing diabetic shoes.
+MEDICATIONS: Lantus 30 units qHS | Novolog sliding scale | Metformin 1000mg BID | Lisinopril 20mg daily
+PLAN: Daughter educated on glucose monitoring assistance. Referral to diabetic educator.
+
+PATIENT_ID: MRN-45677 | DATE: 03/15/2024 | TIME: 15:45
+VITALS: BP 128/76 | HR 72 | RR 16 | TEMP 98.4F | O2 98%RA
+PRIMARY: COPD management
+ASSESSMENT: O2 at 2L/min via NC. Improved breathing with new inhaler regimen. No current exacerbation. Proper inhaler technique demonstrated. Pulse ox 94% with ambulation. Reports 2 weeks smoke-free.
+MEDICATIONS: Spiriva 18mcg daily | Advair 250/50 BID | Albuterol PRN | Prednisone 10mg (tapering)
+PLAN: Continue current regimen. Reinforce smoking cessation.
+
+PATIENT_ID: MRN-82934 | DATE: 03/16/2024 | TIME: 09:00
+VITALS: BP 132/84 | HR 90 | RR 22 | TEMP 101.2F | O2 95%RA
+PRIMARY: IV antibiotic administration
+ASSESSMENT: PICC line site clean, no signs of infection. Administered Vancomycin 1g IVPB. Mild chills during infusion, resolved. Blood cultures pending.
+MEDICATIONS: Vancomycin 1g q12h (14 days remaining) | Acetaminophen 650mg PRN fever | Probiotics daily
+PLAN: Continue IV antibiotics. PICC line care and infection education with patient/caregiver.
+
+PATIENT_ID: MRN-73456 | DATE: 03/16/2024 | TIME: 10:30
+VITALS: BP 158/92 | HR 84 | RR 20 | TEMP 98.7F | O2 97%RA
+PRIMARY: Stroke recovery
+ASSESSMENT: R sided weakness improving. Ambulating 50 feet with quad cane and min assist. Speech therapy exercises completed. Tolerating mechanical soft diet with thin liquids.
+MEDICATIONS: Aspirin 81mg daily | Atorvastatin 40mg daily | Sertraline 50mg daily | Lisinopril 20mg daily
+PLAN: Fall precautions reviewed with family. PT scheduled for tomorrow.
+
+PATIENT_ID: MRN-59302 | DATE: 03/16/2024 | TIME: 13:15
+VITALS: BP 118/72 | HR 68 | RR 16 | TEMP 98.2F | O2 99%RA
+PRIMARY: Palliative care
+ASSESSMENT: Pain level 6/10 (increased from 3/10 last visit). Breakthrough pain medication adjusted per MD orders. Comfortable at rest. Decreased appetite. Family coping well.
+MEDICATIONS: Morphine SR 30mg q12h | Morphine IR 15mg q4h PRN | Zofran 4mg PRN nausea | Senna-S 2 tabs daily
+PLAN: Hospice evaluation discussed with family. Will revisit next week.
+
+PATIENT_ID: MRN-84756 | DATE: 03/16/2024 | TIME: 15:00
+VITALS: BP 145/88 | HR 92 | RR 20 | TEMP 98.9F | O2 96%RA
+PRIMARY: Wound care
+ASSESSMENT: Stage 3 pressure ulcer to sacrum measuring 3.0 x 2.5 x 1.0 cm. Wound bed 80% granulation tissue, 20% slough. Moderate serous drainage. Wound vac settings 125mmHg continuous.
+MEDICATIONS: Augmentin 875mg BID | Multivitamin daily | Zinc supplement daily
+PLAN: Nutritional status reviewed with family. PT assisting with mobility program.
+
+PATIENT_ID: MRN-67823 | DATE: 03/17/2024 | TIME: 09:45
+VITALS: BP 172/94 | HR 88 | RR 18 | TEMP 98.5F | O2 97%RA
+PRIMARY: Hypertension management
+ASSESSMENT: BP elevated despite medication compliance. 3-day BP log shows consistent elevation. No symptoms. Diet reviewed - high sodium intake noted.
+MEDICATIONS: Amlodipine 10mg daily | Losartan 100mg daily | HCTZ 25mg daily
+PLAN: Called MD - new orders for Cardizem CD 180mg daily. Medication teaching completed.
+
+PATIENT_ID: MRN-93847 | DATE: 03/17/2024 | TIME: 11:30
+VITALS: BP 134/82 | HR 76 | RR 18 | TEMP 98.4F | O2 98%RA
+PRIMARY: Post-CVA care
+ASSESSMENT: Speech therapy exercises completed. Improvement in word finding. Swallowing precautions maintained - honey-thick liquids. L arm strength improved to 3+/5.
+MEDICATIONS: Coumadin 5mg daily (INR due tomorrow) | Lisinopril 20mg daily | Metoprolol 50mg BID
+PLAN: Family education on stroke prevention completed.
+
+PATIENT_ID: MRN-72654 | DATE: 03/17/2024 | TIME: 14:00
+VITALS: BP 122/74 | HR 80 | RR 16 | TEMP 98.6F | O2 95%RA
+PRIMARY: Ostomy care
+ASSESSMENT: Colostomy site healthy, no skin breakdown. Output normal color/consistency. Patient independent with ostomy care. Demonstrates proper technique for appliance change.
+MEDICATIONS: Vitamin D3 2000IU daily | Calcium 600mg BID | Docusate sodium 100mg daily
+PLAN: Nutrition and hydration teaching reinforced.
+
+PATIENT_ID: MRN-88456 | DATE: 03/17/2024 | TIME: 15:45
+VITALS: BP 148/86 | HR 90 | RR 22 | TEMP 100.8F | O2 93%RA
+PRIMARY: Pneumonia follow-up
+ASSESSMENT: Decreased breath sounds RLL, occasional wheezes. Productive cough with yellow sputum. Completing course of Levaquin. Incentive spirometry reviewed.
+MEDICATIONS: Levaquin 750mg daily (2 days remaining) | Mucinex 600mg BID | Proventil HFA PRN
+PLAN: Deep breathing exercises demonstrated and practiced.
+
+PATIENT_ID: MRN-63298 | DATE: 03/18/2024 | TIME: 09:15
+VITALS: BP 136/84 | HR 78 | RR 18 | TEMP 98.7F | O2 96%RA
+PRIMARY: Chronic pain management
+ASSESSMENT: Back pain 7/10. Limited mobility due to pain. Using heat therapy and prescribed exercises. Pain affecting sleep quality.
+MEDICATIONS: Gabapentin 300mg TID | Flexeril 10mg qHS | Tylenol 650mg q6h PRN
+PLAN: Pain management techniques reviewed. PT referral discussed.
+
+PATIENT_ID: MRN-75439 | DATE: 03/18/2024 | TIME: 11:00
+VITALS: BP 132/78 | HR 84 | RR 20 | TEMP 98.5F | O2 97%RA
+PRIMARY: Catheter care
+ASSESSMENT: Indwelling catheter functioning properly. No signs of UTI. Urine clear, yellow. Bag properly positioned. Patient/caregiver demonstrate proper catheter care.
+MEDICATIONS: Macrobid 100mg daily (prophylaxis) | Cranberry supplement daily
+PLAN: Teaching on signs/symptoms of UTI and when to notify MD.
+
+PATIENT_ID: MRN-81923 | DATE: 03/18/2024 | TIME: 13:30
+VITALS: BP 162/94 | HR 86 | RR 18 | TEMP 98.8F | O2 95%RA
+PRIMARY: Post-op hip fracture recovery
+ASSESSMENT: S/P L hip ORIF 2 weeks ago. Incision well-healed. Using walker with good technique. Completing PT exercises as prescribed. Pain controlled with current regimen.
+MEDICATIONS: Eliquis 2.5mg BID | Tylenol 650mg q6h PRN | Calcium 600mg BID | Vitamin D3 2000IU daily
+PLAN: Fall prevention measures reviewed. PT visit scheduled for tomorrow. 

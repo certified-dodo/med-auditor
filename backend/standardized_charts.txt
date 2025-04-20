@@ -1,0 +1,179 @@
+CHART SUBMISSION
+PATIENT: MRN-78392
+DATE OF SERVICE: 03/15/2024
+SERVICE TYPE: Skilled Nursing - Post-op wound care
+VISIT DURATION: 45 minutes
+VITAL SIGNS: BP 138/82, HR 76, RR 18, Temp 98.6F, O2 sat 97%
+SERVICES PROVIDED: Surgical wound assessment and dressing change to R knee. Sterile technique used. Patient education on wound care.
+MEDICATIONS ADMINISTERED/REVIEWED: Cefazolin 500mg PO, Oxycodone 5mg PRN, ASA 81mg
+PATIENT STATUS: Ambulatory with walker. Pain controlled at 4/10. No signs of infection. PT exercises performed 3x/day.
+FOLLOW-UP: Scheduled for 03/17/2024
+BILLING CODE: G0299
+
+CHART SUBMISSION
+PATIENT: MRN-65441
+DATE OF SERVICE: 03/15/2024
+SERVICE TYPE: Skilled Nursing - CHF monitoring
+VISIT DURATION: 50 minutes
+VITAL SIGNS: BP 142/88, HR 82, RR 20, Temp 99.1F, O2 sat 92% [Discrepancy: O2 sat should be 94%]
+SERVICES PROVIDED: Cardiopulmonary assessment. Medication compliance review. Patient education on daily weights.
+MEDICATIONS ADMINISTERED/REVIEWED: Lasix 40mg daily, Metoprolol 50mg BID [Discrepancy: Metoprolol should be 25mg BID], Lisinopril 10mg daily, KCl 20mEq daily
+PATIENT STATUS: SOB on exertion. Bilateral LE edema +2. Gained 4lbs in 3 days. Lung crackles present.
+FOLLOW-UP: Called MD for medication adjustment.
+BILLING CODE: G0299
+
+CHART SUBMISSION
+PATIENT: MRN-91283
+DATE OF SERVICE: 03/15/2024
+SERVICE TYPE: Skilled Nursing - Diabetic care
+VISIT DURATION: 55 minutes
+VITAL SIGNS: BP 165/95, HR 88, RR 18, Temp 98.8F, O2 sat 96%
+SERVICES PROVIDED: Wound care to R foot ulcer. Diabetic foot assessment. Blood glucose monitoring. Caregiver education.
+MEDICATIONS ADMINISTERED/REVIEWED: Lantus 30 units qHS, Novolog sliding scale, Metformin 1000mg daily [Discrepancy: Metformin should be 1000mg BID], Lisinopril 20mg daily
+PATIENT STATUS: Blood glucose elevated (fasting 210, pre-lunch 188). Wagner Grade 1 ulcer to R foot. Visual impairment affecting self-monitoring.
+FOLLOW-UP: Referral to diabetic educator initiated.
+BILLING CODE: G0299
+
+CHART SUBMISSION
+PATIENT: MRN-45677
+DATE OF SERVICE: 03/15/2024
+SERVICE TYPE: Skilled Nursing - COPD management
+VISIT DURATION: 40 minutes
+VITAL SIGNS: BP 128/76, HR 72, RR 16, Temp 98.4F, O2 sat 98%
+SERVICES PROVIDED: Respiratory assessment. Inhaler technique review. Oxygen therapy management.
+MEDICATIONS ADMINISTERED/REVIEWED: Spiriva 18mcg daily, Advair 250/50 BID, Albuterol PRN, Prednisone 10mg
+PATIENT STATUS: On 2L O2 via NC. Improved breathing with current regimen. No exacerbation. Reports 2 weeks smoke-free.
+FOLLOW-UP: Continue current plan of care.
+BILLING CODE: G0299
+
+CHART SUBMISSION
+PATIENT: MRN-82934
+DATE OF SERVICE: 03/16/2024
+SERVICE TYPE: Skilled Nursing - IV therapy
+VISIT DURATION: 60 minutes
+VITAL SIGNS: BP 132/84, HR 90, RR 22, Temp 102.2F [Discrepancy: Temp should be 101.2F], O2 sat 95%
+SERVICES PROVIDED: PICC line assessment and care. IV Vancomycin 1g administration. Blood culture collection.
+MEDICATIONS ADMINISTERED/REVIEWED: Vancomycin 1g IV q12h, Acetaminophen 650mg PRN, Probiotics daily
+PATIENT STATUS: PICC site without signs of infection. Mild chills during infusion which resolved. Febrile.
+FOLLOW-UP: Continue IV antibiotic therapy per MD orders.
+BILLING CODE: G0299
+
+CHART SUBMISSION
+PATIENT: MRN-73456
+DATE OF SERVICE: 03/16/2024
+SERVICE TYPE: Skilled Nursing - Stroke recovery
+VISIT DURATION: 45 minutes
+VITAL SIGNS: BP 158/92, HR 84, RR 20, Temp 98.7F, O2 sat 97%
+SERVICES PROVIDED: Neurological assessment. Speech therapy exercises. Swallowing evaluation. Gait training.
+MEDICATIONS ADMINISTERED/REVIEWED: Aspirin 81mg daily, Atorvastatin 40mg daily, Sertraline 50mg daily, Lisinopril 20mg daily
+PATIENT STATUS: Right-sided weakness improving. Ambulating 50 feet with quad cane with minimal assistance. Tolerating mechanical soft diet.
+FOLLOW-UP: PT scheduled for tomorrow. Fall precautions reviewed.
+BILLING CODE: G0299
+
+CHART SUBMISSION
+PATIENT: MRN-59302
+DATE OF SERVICE: 03/16/2024
+SERVICE TYPE: Skilled Nursing - Palliative care
+VISIT DURATION: 75 minutes
+VITAL SIGNS: BP 118/72, HR 68, RR 16, Temp 98.2F, O2 sat 99%
+SERVICES PROVIDED: Pain assessment and management. Comfort measures. Family support and education.
+MEDICATIONS ADMINISTERED/REVIEWED: Morphine SR 30mg q12h, Morphine IR 15mg q4h PRN, Zofran 4mg PRN, Senna-S 2 tabs daily
+PATIENT STATUS: Pain increased to 6/10 from 3/10 at last visit. MD contacted for pain medication adjustment. Decreased appetite noted.
+FOLLOW-UP: Hospice evaluation discussed. Will revisit next week.
+BILLING CODE: G0299
+
+CHART SUBMISSION
+PATIENT: MRN-84756
+DATE OF SERVICE: 03/16/2024
+SERVICE TYPE: Skilled Nursing - Wound care
+VISIT DURATION: 55 minutes
+VITAL SIGNS: BP 145/88, HR 92, RR 20, Temp 98.9F, O2 sat 96%
+SERVICES PROVIDED: Assessment and dressing change for sacral pressure ulcer. Wound vac management. Nutritional assessment.
+MEDICATIONS ADMINISTERED/REVIEWED: Augmentin 875mg BID, Multivitamin daily, Zinc supplement
+PATIENT STATUS: Stage 2 pressure ulcer to sacrum measuring 3.0 x 2.5 x 1.0 cm. [Discrepancy: Should be Stage 3 pressure ulcer]
+FOLLOW-UP: PT assisting with mobility program. Nutritional support reviewed.
+BILLING CODE: G0299
+
+CHART SUBMISSION
+PATIENT: MRN-67823
+DATE OF SERVICE: 03/18/2024 [Discrepancy: Date should be 03/17/2024]
+SERVICE TYPE: Skilled Nursing - HTN management
+VISIT DURATION: 40 minutes
+VITAL SIGNS: BP 172/94, HR 88, RR 18, Temp 98.5F, O2 sat 97%
+SERVICES PROVIDED: BP monitoring. Medication compliance review. Dietary counseling for sodium restriction.
+MEDICATIONS ADMINISTERED/REVIEWED: Amlodipine 10mg daily, Losartan 100mg daily, HCTZ 25mg daily
+PATIENT STATUS: BP elevated despite medication compliance. 3-day BP log shows consistent elevation. High sodium diet noted.
+FOLLOW-UP: MD notified. New medication order received for Cardizem CD 180mg daily.
+BILLING CODE: G0299
+
+CHART SUBMISSION
+PATIENT: MRN-93847
+DATE OF SERVICE: 03/17/2024
+SERVICE TYPE: Skilled Nursing - Post-CVA care
+VISIT DURATION: 45 minutes
+VITAL SIGNS: BP 134/82, HR 76, RR 18, Temp 98.4F, O2 sat 98%
+SERVICES PROVIDED: Neurological assessment. Speech therapy exercises. Swallowing evaluation. Left upper extremity exercises.
+MEDICATIONS ADMINISTERED/REVIEWED: Coumadin 5mg daily, Lisinopril 20mg daily, Metoprolol 25mg BID [Discrepancy: Should be Metoprolol 50mg BID]
+PATIENT STATUS: Improving word finding. Maintaining swallowing precautions with honey-thick liquids. L arm strength improved to 3+/5.
+FOLLOW-UP: Family education on stroke prevention provided. INR check due tomorrow.
+BILLING CODE: G0299
+
+CHART SUBMISSION
+PATIENT: MRN-72654
+DATE OF SERVICE: 03/17/2024
+SERVICE TYPE: Skilled Nursing - Ostomy care
+VISIT DURATION: 35 minutes
+VITAL SIGNS: BP 122/74, HR 80, RR 16, Temp 98.6F, O2 sat 95%
+SERVICES PROVIDED: Ostomy assessment and care. Patient education on proper appliance management.
+MEDICATIONS ADMINISTERED/REVIEWED: Vitamin D3 2000IU daily, Calcium 600mg BID, Docusate sodium 100mg daily
+PATIENT STATUS: Colostomy site healthy. No skin breakdown. Normal output. Patient independent with ostomy care.
+FOLLOW-UP: Continue with nutrition and hydration education.
+BILLING CODE: G0300 [Discrepancy: Incorrect billing code - should be G0299]
+
+CHART SUBMISSION
+PATIENT: MRN-88456
+DATE OF SERVICE: 03/17/2024
+SERVICE TYPE: Skilled Nursing - Pneumonia follow-up
+VISIT DURATION: 50 minutes
+VITAL SIGNS: BP 148/86, HR 90, RR 22, Temp 100.8F, O2 sat 93%
+SERVICES PROVIDED: Respiratory assessment. Sputum assessment. Incentive spirometry instruction. Deep breathing exercises.
+MEDICATIONS ADMINISTERED/REVIEWED: Levaquin 750mg daily, Mucinex 600mg BID, Proventil HFA PRN
+PATIENT STATUS: Decreased breath sounds RLL with occasional wheezes. Productive cough with yellow sputum. Completing antibiotic course.
+FOLLOW-UP: Continue respiratory therapy and monitoring.
+BILLING CODE: G0299
+
+CHART SUBMISSION
+PATIENT: MRN-63298
+DATE OF SERVICE: 03/18/2024
+SERVICE TYPE: Skilled Nursing - Pain management
+VISIT DURATION: 40 minutes
+VITAL SIGNS: BP 136/84, HR 78, RR 18, Temp 98.7F, O2 sat 96%
+SERVICES PROVIDED: Pain assessment. Non-pharmacological pain management education. Heat therapy application.
+MEDICATIONS ADMINISTERED/REVIEWED: Gabapentin 600mg TID [Discrepancy: Should be Gabapentin 300mg TID], Flexeril 10mg qHS, Tylenol 650mg q6h PRN
+PATIENT STATUS: Chronic back pain at 7/10. Limited mobility due to pain. Sleep disturbance reported.
+FOLLOW-UP: PT referral discussed. Pain management techniques reviewed.
+BILLING CODE: G0299
+
+CHART SUBMISSION
+PATIENT: MRN-75439
+DATE OF SERVICE: 03/18/2024
+SERVICE TYPE: Skilled Nursing - Catheter care
+VISIT DURATION: 30 minutes
+VITAL SIGNS: BP 132/78, HR 84, RR 20, Temp 98.5F, O2 sat 97%
+SERVICES PROVIDED: Indwelling catheter assessment and care. UTI prevention education.
+MEDICATIONS ADMINISTERED/REVIEWED: Macrobid 100mg daily, Cranberry supplement daily
+PATIENT STATUS: Catheter functioning properly. No signs of UTI. Urine clear yellow. Bag properly positioned.
+FOLLOW-UP: Continue to monitor for signs/symptoms of UTI. Patient/CG demonstrate proper care technique.
+BILLING CODE: G0299
+
+CHART SUBMISSION
+PATIENT: MRN-81923
+DATE OF SERVICE: 03/18/2024
+SERVICE TYPE: Skilled Nursing - Post-op orthopedic
+VISIT DURATION: 45 minutes
+VITAL SIGNS: BP 162/94, HR 86, RR 18, Temp 98.8F, O2 sat 95%
+SERVICES PROVIDED: Incision assessment. Gait training with walker. PT exercise review. Pain assessment.
+MEDICATIONS ADMINISTERED/REVIEWED: Eliquis 5mg BID [Discrepancy: Should be Eliquis 2.5mg BID], Tylenol 650mg q6h PRN, Calcium 600mg BID, Vitamin D3 2000IU daily
+PATIENT STATUS: S/P L hip ORIF 2 weeks ago. Incision well-healed. Using walker with good technique. Pain controlled with current regimen.
+FOLLOW-UP: PT scheduled for tomorrow. Fall prevention measures reviewed.
+BILLING CODE: G0299

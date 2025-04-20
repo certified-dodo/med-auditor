@@ -79,7 +79,7 @@ def query_similar_chunks(collection, query_text, model, n_results=3):
 
 def main():
     # File path
-    file_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "sample_text.txt")
+    file_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "standardized_medical_records.txt")
     
     # Process file and get collection, chunks, and model
     collection, chunks, model = process_file(file_path)
@@ -89,16 +89,27 @@ def main():
     for i, chunk in enumerate(chunks[:3]):  # Show first 3 chunks
         print(f"Chunk {i+1} ({len(chunk)} chars): {chunk[:100]}...")
     
-    # Perform a sample query
-    query = "COPD symptoms and treatment"
-    print(f"\nPerforming sample query: '{query}'")
-    results = query_similar_chunks(collection, query, model)
+    # Perform queries
+    queries = [
+        "diabetic patient with foot ulcer",
+        "congestive heart failure with fluid retention",
+        "COPD management and oxygen therapy",
+        "post-operative wound care after knee replacement",
+        "palliative care for pain management",
+        "stage 3 pressure ulcer treatment",
+        "stroke recovery therapy",
+        "catheter care and UTI prevention"
+    ]
     
-    # Display results
-    print("\nQuery results:")
-    for i, (doc, score) in enumerate(zip(results["documents"][0], results["distances"][0])):
-        print(f"Result {i+1} (distance: {score:.4f}):")
-        print(f"{doc[:200]}...\n")
+    for query in queries:
+        print(f"\nPerforming query: '{query}'")
+        results = query_similar_chunks(collection, query, model)
+        
+        # Display results
+        print("\nResults:")
+        for i, (doc, score) in enumerate(zip(results["documents"][0], results["distances"][0])):
+            print(f"Result {i+1} (distance: {score:.4f}):")
+            print(f"{doc[:200]}...\n")
 
 if __name__ == "__main__":
     main() 
