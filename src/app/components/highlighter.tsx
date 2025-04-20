@@ -18,9 +18,10 @@ interface Note {
 // Add interface for component props
 interface HighlighterProps {
     onHighlight?: (highlight: HighlightArea & { index: number }) => void;
+    data?: HighlightArea[]; // Add data prop for highlighted areas
 }
 
-export function Highlighter({ onHighlight }: HighlighterProps = {}) {
+export function Highlighter({ onHighlight, data }: HighlighterProps = {}) {
     // Create a reference to store the highlight API
     const viewerRef = useRef(null);
     // Track current active highlight index
@@ -29,20 +30,21 @@ export function Highlighter({ onHighlight }: HighlighterProps = {}) {
     // Use a ref to track previous highlight index to prevent infinite loops
     const prevIndexRef = useRef<number>(0);
 
+
     const areas = useMemo(() => [
         {
             pageIndex: 0,
             height: 1.55401,
             width: 28.1674,
-            left: 27.5399,
-            top: 15.0772,
+            left: 17.5399,
+            top: 21.0772,
         },
         {
-            pageIndex: 1,
-            height: 1.32637,
-            width: 37.477,
-            left: 55.7062,
-            top: 15.2715,
+            pageIndex: 0,
+            height: 1.55401,
+            width: 20.1674,
+            left: 17.5399,
+            top: 26.0772,
         },
         {
             pageIndex: 2,
@@ -51,7 +53,7 @@ export function Highlighter({ onHighlight }: HighlighterProps = {}) {
             left: 16.3638,
             top: 16.6616,
         },
-    ], []); // Empty dependency array since this data is static
+    ], [data]); // Depend on data
 
     // Call onHighlight whenever the active highlight changes
     useEffect(() => {

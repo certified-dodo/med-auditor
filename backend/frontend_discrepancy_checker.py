@@ -36,7 +36,7 @@ def initialize_vector_db():
         return None, None
 
 
-import db as db
+import backend.db as db
 
 
 def query_similar_medical_records(chart_text, n_results=5):
@@ -151,9 +151,6 @@ def process_chart_from_memory(chart_text, medical_record_text, model):
                 field["correct_value"] = discrepancy["correct_value"]
 
     return chart_fields
-
-
-from data import chart_data
 
 
 def check_chart_entry(entry):

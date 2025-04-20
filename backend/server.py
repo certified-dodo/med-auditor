@@ -1,6 +1,3 @@
-from chunker import chunk_text
-from data import chart_data, med_records_jason
-from db import insert_documents
 from fastapi import FastAPI
 
 app = FastAPI()
@@ -12,12 +9,14 @@ async def read_root():
 
 
 from backend.frontend_discrepancy_checker import check_chart_entry
-from data import chart_data
+from backend.data import chart_data
 
 
 @app.get("/process")
 async def process_data():
-    for single_record in chart_data:
+    corrected_records = []
+    for single_record in chart_data[0:1]:
         corrected_record = check_chart_entry(single_record)
-        print(corrected_record)
-    return {"message": "Data processed"}
+        corrected_records.append(corrected_record)
+    print(corrected_records)
+    return {"message": corrected_records}
