@@ -11,8 +11,13 @@ async def read_root():
     return {"Hello": "World"}
 
 
+from backend.frontend_discrepancy_checker import check_chart_entry
+from data import chart_data
+
+
 @app.get("/process")
 async def process_data():
     for single_record in chart_data:
-        print(single_record)
+        corrected_record = check_chart_entry(single_record)
+        print(corrected_record)
     return {"message": "Data processed"}
