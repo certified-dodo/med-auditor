@@ -13,3 +13,6 @@ def insert_medical_records():
             for i, chunk in enumerate(chunks)
         ]
     )
+
+
+insert_medical_records()

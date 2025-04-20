@@ -1,7 +1,7 @@
-from fastapi import FastAPI
-from data import med_records_jason
 from chunker import chunk_text
+from data import chart_data, med_records_jason
 from db import insert_documents
+from fastapi import FastAPI
 
 app = FastAPI()
 
@@ -12,6 +12,7 @@ async def read_root():
 
 
 @app.get("/process")
-async def read_item(item_id: int, q: str = None):
-    # insert_documents(chunks, [str(i) for i in range(len(chunks))])
-    return {"item_id": item_id, "q": q}
+async def process_data():
+    for single_record in chart_data:
+        print(single_record)
+    return {"message": "Data processed"}
