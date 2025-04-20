@@ -6,7 +6,7 @@ import os
 load_dotenv()
 
 
-chroma_client = chromadb.Client()
+client = chromadb.PersistentClient()
 
 openai_ef = embedding_functions.OpenAIEmbeddingFunction(
     api_key=os.getenv("OPENAI_API_KEY"),
@@ -14,9 +14,14 @@ openai_ef = embedding_functions.OpenAIEmbeddingFunction(
 )
 
 
-chroma_collection = chroma_client.create_collection(
-    "med_records", embedding_function=openai_ef
-)
+try:
+    chroma_collection = client.get_collection(
+        "med_records", embedding_function=openai_ef
+    )
+except ValueError:
+    chroma_collection = client.create_collection(
+        "med_records", embedding_function=openai_ef
+    )
 
 
 def insert_documents(docs: list[dict]):
